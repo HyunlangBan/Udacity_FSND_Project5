@@ -6,7 +6,6 @@ git_key.txt
 *.pyc
 *.pyo
 env/
-env*
 dist/
 build/
 *.egg
